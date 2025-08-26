@@ -10,6 +10,6 @@ This guide will help you install **Anaconda**, create a Python environment, and 
    - **macOS/Linux:** Follow the terminal instructions.
 
 4. Verify installation by opening a terminal (or Anaconda Prompt on Windows) and running:<br>
-   ``bash
+   ``
   conda --version
    ``

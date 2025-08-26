@@ -9,7 +9,7 @@ This guide will help you install **Anaconda**, create a Python environment, and 
    - **Windows:** Follow the wizard and make sure to check “Add Anaconda to my PATH environment variable” (optional but recommended).
    - **macOS/Linux:** Follow the terminal instructions.
 
-4. Verify installation by opening a terminal (or Anaconda Prompt on Windows) and running:
+4. Verify installation by opening a terminal (or Anaconda Prompt on Windows) and running:<br>
    ``bash
   conda --version
    ``
